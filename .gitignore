@@ -1,4 +1,4 @@
-weatherProject\src\main\resources\application.properties
+weatherProject/src/main/resources/application.properties
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
